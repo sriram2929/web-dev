@@ -1,0 +1,277 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@400;600&family=Indie+Flower&family=Istok+Web:ital,wght@0,400;0,700;1,400&family=Noto+Serif:wght@100&family=Oswald&family=Raleway:wght@200;400;600&family=Roboto+Condensed:ital,wght@0,600;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@400;600&family=Indie+Flower&family=Istok+Web:ital,wght@0,400;0,700;1,400&family=Noto+Serif:wght@100&family=Oswald&family=Raleway:wght@200&family=Roboto+Condensed:ital,wght@0,600;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@400;600&family=Indie+Flower&family=Istok+Web:ital,wght@0,400;0,700;1,400&family=Noto+Serif:wght@100&family=Oswald&family=Roboto+Condensed:ital,wght@0,600;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@400;600&family=Istok+Web&family=Oswald&family=Roboto+Condensed:ital,wght@0,600;1,300&display=swap');
+body{
+    height:480vh;
+}
+.nav-bar{
+    margin-left: auto;
+   
+}
+.sriram-foods-logo{
+    width: 90px;
+}
+.s1{
+    padding-left:200px;
+}
+
+.s2{
+    padding-right:100px;
+    font-family: 'Istok Web', sans-serif;
+    font-size: 20px;
+   
+}
+.menu{
+    padding: 5px;
+    margin: 4px;
+    border: 1px solid rgb(28, 137, 177);
+    border-radius: 7px;
+}
+.menu:hover{
+    color:blue;
+}
+.bgm-image{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    height: 100vh;
+    background-size:cover;
+
+}
+.heading{
+    color:white;
+    text-align: center;
+    padding: 35vh;
+    font-family: 'Istok Web', sans-serif;
+}
+.b1{
+border:1px solid rgb(151, 149, 24);
+color: yellow;
+background-color: transparent;
+border-radius: 10px;
+font-size:25px;
+}
+.sub-body-2{
+    padding-left: 200px;
+}
+.h2{
+    color:rgb(8, 62, 137);
+}
+.para1{
+    color:rgb(130, 35, 32);
+    
+    font-family: 'Raleway', sans-serif;
+    
+
+}
+.col-2{
+    border: 1px solid rgb(217, 210, 210);
+    width:390px;
+    margin:auto;
+    text-align: center;
+    border-radius: 9px;
+   
+}
+.row{
+    padding-left: 90px;
+   
+}
+.food{
+ padding-top: 20px;
+}
+.para2{
+    text-align:unset;
+    font-family: 'Raleway', sans-serif;
+}
+.h22{
+    padding-left: 200px;
+    color:rgb(45, 45, 124);
+}
+.col-1{
+   
+border: 1px solid rgb(217, 226, 217);
+   width: 300px;
+   border-radius: 9px;
+   margin: auto;
+   height: 320px;
+}
+.non-veg{
+    width:275px;
+    height: 200px;
+    border-radius: 20px;
+    padding-top: 9px;
+    box-sizing: border-box;
+}
+.para3{
+    font-size: 25px;
+}
+.arrow{
+    width:30px;
+    background-color: transparent;
+}
+.para4{
+    color:rgb(177, 177, 37);
+    font-size:15px;
+}
+.but:hover{
+    color:blue;
+}
+.but{
+    background-color: white;
+    border: solid white;
+    color:rgb(177, 149, 37);
+    font-size:15px;
+}
+.food-logo{
+    padding-left: 100px;
+    width:480px;
+    padding-right: 100px;
+   
+}
+.col-5{
+   
+    padding-top: 50px;
+    
+}
+.h222{
+    padding-top: 60px;
+    color:rgb(45, 45, 124);
+    font-size: 25px;
+}
+
+.para5{
+    font-size: 20px;
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+}
+.watch{
+    color: rgb(231, 218, 218);
+    background-image: linear-gradient(#d0b200, #a58d00);
+    border-radius: 7px;
+    font-size: 20px;
+}
+.h2222{
+    color:rgb(45, 45, 124);
+    font-size: 25px;
+    padding-top: 80px;
+}
+.para6{
+    font-size: 20px;
+    text-align: left;
+    
+    font-size: 17px;
+
+}
+.disc-logo{
+    width: 300px;
+    padding-left: 30px;
+}
+.order-now{
+    color: rgb(231, 218, 218);
+    background-image: linear-gradient(#d0b200, #a58d00);
+    border-radius: 7px;
+    font-size: 20px;
+}
+.visa{
+    width:50px;
+ 
+}
+.visa1{
+    background-color: white;
+    border-radius: 5px;
+   
+}
+.gift{
+    height:400px;
+    background-color: rgb(184, 193, 146);
+}
+.heading1{
+    padding-left: 80px;
+    padding-top: 150px;
+}
+.para7{
+    padding-left: 80px;
+    font-size: 20px;
+
+}
+.reedem{
+    padding-left: 80px;
+    
+    
+}
+.reedem1{
+    color: rgb(231, 218, 218);
+    background-image: linear-gradient(#d0b200, #a58d00);
+    border-radius: 7px;
+    font-size: 20px;
+}
+
+.pic{
+    width:100px;
+    height: 100px;
+}
+.gift{
+    text-align: center;
+}
+.lets{
+    text-align: center;
+    color:rgb(45, 45, 124);
+    
+}
+.x{
+    padding-left: 600px;
+    height:80px;
+    padding-top: 10px;
+}
+.insta{
+    padding-left: 50px;
+    height:70px;
+    padding-top: 10px;
+}
+.linkdin{
+    padding-left: 50px;
+    height:70px;
+    padding-top: 10px;
+}
+.end{
+    height:50vh;
+    background-color:rgb(156, 129, 175);
+}
+.end1{
+    width:150px;
+   
+}
+.end{
+    text-align: center;
+    padding-top: 40px;
+}
+.ram{
+    font-family: 'Edu TAS Beginner', cursive;
+  font-size: 42px;
+  color:rgb(69, 6, 48);
+}
+.click{
+    color: rgb(231, 218, 218);
+    background-image: linear-gradient(#d0b200, #a58d00);
+    border-radius: 7px;
+    font-size: 20px;
+}
+
+
+@media only screen and (max-width:600px)
+{
+    nvv ul{
+        position: absolute;
+        width: 100%;
+        background: #000;
+        color: #fff;
+        left: 0;
+        top: 100%;
+        text-align: center;
+        
+
+    }
+}
